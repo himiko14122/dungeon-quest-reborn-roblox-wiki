@@ -10,3 +10,4 @@ binding = "ASSETS"
 # Cloudflare Workers Domains API (OAuth). wrangler 4.106 does not
 # support a [[domains]] top-level field, so the binding is managed through the API
 # (see .codeflicker/state/deployer-return-anime-origins-worker.json).
+// CF Worker Builds Git integration verified
