@@ -1,8 +1,8 @@
-# Anime Origins Wiki
+# Dungeon Quest Reborn Wiki
 
-Official wiki for **Anime Origins** (Roblox — Game ID 129932912185311).
+Official wiki for **Dungeon Quest Reborn** (Roblox — Game ID 77649408247578).
 
-- Live site: https://anime-origins-wiki.online
+- Live site: https://dungeon-quest-reborn-roblox.wiki
 - Deploy: Cloudflare Workers Builds (Git integration) — v1.0.0
 - Build: `corepack enable && pnpm install --frozen-lockfile && pnpm run build`
 
