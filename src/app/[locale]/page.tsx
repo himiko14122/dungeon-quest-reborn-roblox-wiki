@@ -7,10 +7,11 @@ import { getBaseMetadata, websiteJsonLd, organizationJsonLd, itemListJsonLd } fr
 import { HOME_CONFIG } from '@/config/home';
 import { getAllContent, getAllContentByDate } from '@/lib/content';
 import { translate } from '@/lib/i18n';
-import { HERO_IMAGE, EXTERNAL_LINKS } from '@/config/site';
+import { EXTERNAL_LINKS } from '@/config/site';
 import { WEAPONS, SPELLS, DUNGEONS, CLASSES, TIER_COLOR_MAP } from '@/data/game-data';
 import AdBanner from '@/components/AdBanner';
 import AutoScrollCarousel from '@/components/AutoScrollCarousel';
+import YouTubePlayer from '@/components/YouTubePlayer';
 import { ArrowRight, ChevronRight, Swords, Sparkles, Gamepad2, TrendingUp } from 'lucide-react';
 
 export function generateStaticParams() {
@@ -121,7 +122,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               <div className="absolute -inset-1 bg-gradient-to-br from-[var(--color-accent)]/20 via-transparent to-[var(--color-accent-secondary)]/10 rounded-2xl opacity-50 blur-sm group-hover:opacity-80 transition-opacity duration-500" />
               <div className="relative rounded-2xl overflow-hidden border border-[var(--color-border)] bg-[var(--color-bg-card)] shadow-2xl">
                 <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--color-accent)]/40 to-transparent" />
-                <img src={HERO_IMAGE} alt={t('home_hero_title')} className="w-full h-auto object-cover" />
+                <YouTubePlayer videoId={HOME_CONFIG.hero.videoId} />
               </div>
               <p className="text-center text-xs text-[var(--color-text-muted)] mt-3">{t('home_hero_trailer')}</p>
             </div>
