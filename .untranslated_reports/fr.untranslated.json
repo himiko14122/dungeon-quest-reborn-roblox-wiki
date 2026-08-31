@@ -1,0 +1,8 @@
+{
+  "locale": "fr",
+  "note": "must-translate keys that the LLM left in English after retry; require human/agent handling",
+  "untranslated": {
+    "termsOfService_contact_title": "Contact",
+    "nav_guides": "Guides"
+  }
+}

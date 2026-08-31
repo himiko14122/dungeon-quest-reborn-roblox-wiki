@@ -1,0 +1,134 @@
+export const metadata = {
+    id: "spell-animation-guide",
+    slug: "spell-animation-guide",
+    order: 3,
+    difficulty: "intermediate",
+    title: "Dungeon Quest Reborn : Guide et stratégie sur le guide d'animation des sorts",
+    description: "Maîtrisez le guide d'animation des sorts dans Dungeon Quest Reborn. Explorez chaque salle et éliminez tous les ennemis efficacement grâce à nos stratégies détaillées et nos conseils d'experts pour chaque donjon.",
+    keywords: ["Dungeon Quest Reborn guide d'animation des sorts", "Dungeon Quest Reborn guide de timing des sorts", "Dungeon Quest Reborn comment viser avec les sorts", "Dungeon Quest Reborn annulation de sorts", "Dungeon Quest Reborn guide de mise en file d'attente des sorts", "Dungeon Quest Reborn meilleur sort pour chaque donjon"],
+    image: "/images/spells/m7-99nJnj9g.webp",
+    category: "spells",
+    date: "2026-08-31",
+    lastModified: "2026-08-31"
+}
+
+Comprendre les animations de sorts fait la différence entre un mage qui nettoie les donjons efficacement et un autre qui se fait constamment toucher pendant l'incantation. Dans Dungeon Quest Reborn, chaque sort possède des frames de démarrage, des frames actives et des frames de récupération qui déterminent vos fenêtres de vulnérabilité. Ce guide complet sur l'animation des sorts couvre les mécaniques que vous devez maîtriser pour gérer le timing des sorts, l'annulation des sorts et la mise en file d'attente des sorts afin de maximiser vos dégâts tout en minimisant le temps passé exposé aux attaques ennemies.
+
+Que vous parcouriez le Temple du Désert, l'Avant-poste Hivernal ou l'Île aux Pirates, les principes de gestion des animations de sorts restent cohérents. En comprenant comment les animations fonctionnent et quand vous pouvez les interrompre en toute sécurité, vous améliorerez considérablement vos temps de nettoyage et vos taux de survie à travers tout le contenu.
+
+## Comment fonctionnent les animations de sorts dans Dungeon Quest Reborn
+
+Les animations de sorts dans Dungeon Quest Reborn se composent de trois phases distinctes que tout joueur doit intérioriser pour jouer efficacement. La **phase d'incantation** est la période de démarrage où votre personnage commence l'animation du sort mais n'a pas encore libéré l'effet. Pendant cette fenêtre, vous êtes vulnérable aux interruptions et ne pouvez pas agir. La **phase active** est le moment où l'effet du sort se produit réellement et inflige des dégâts ou applique son effet prévu. La **phase de récupération** est la période de ralentissement après que le sort est terminé, où votre personnage revient à un état d'inactivité.
+
+Différents sorts ont des durées d'animation considérablement différentes à travers ces trois phases. Les sorts rapides comme les attaques de projectile de base peuvent avoir un temps d'animation total inférieur à une demi-seconde, tandis que des sorts puissants comme les ultimes à zone d'effet peuvent vous verrouiller dans une animation pendant deux secondes complètes ou plus. Comprendre ces timings est essentiel pour un timing de sorts efficace dans Dungeon Quest Reborn, car un sort mal chronométré peut vous laisser sans défense pendant que les ennemis se rapprochent ou préparent leurs propres attaques.
+
+La classe Mage est particulièrement dépendante des animations, car l'incantation de sorts représente la majorité de vos dégâts. Les Guerriers ont plus de liberté pour s'intercaler entre les attaques, mais les Mages doivent être stratégiques quant au moment où ils s'engagent dans de longues animations. Cela rend la compréhension des mécaniques d'animation des sorts absolument cruciale pour toute personne choisissant la voie du Mage.
+
+## Timing des sorts : Maximiser vos fenêtres d'opportunité
+
+| Nom du sort | Origine du donjon | Durée d'animation (frames) | Multiplicateur de dégâts | Temps de recharge (s) | Effet spécial |
+|---|---|---|---|---|---|
+| Boule de feu | Temple du Désert | 42 | 1,4× | 3,2 | Brûlure (DoT 0,2× pendant 4s) |
+| Nova de givre | Avant-poste Hivernal | 58 | 1,1× | 4,5 | Entrave (ralentissement 60% pendant 2s) |
+| Chaîne d'éclairs | Île aux Pirates | 35 | 1,6× | 2,8 | Rebondit sur 3 cibles |
+| Frappe au sol | Tous les donjons | 65 | 2,0× | 5,0 | Projection + Étourdissement (0,5s) |
+| Barrage arcanique | Temple du Désert | 48 | 1,3× | 3,5 | Projectile rapide à 5 coups |
+
+Un timing de sorts efficace nécessite de lire les schémas d'attaque ennemis et de planifier vos incantations pendant les fenêtres sûres. Lorsqu'un ennemi prépare une grande attaque, vous disposez d'une fenêtre prévisible où vous pouvez incanter en toute sécurité sans interruption. Ce guide de timing des sorts pour Dungeon Quest Reborn se concentre sur l'identification de ces schémas et leur exploitation constante.
+
+**Tableau : Fenêtres d'attaque ennemies courantes par donjon**
+
+| Donjon | Type d'ennemi | Préparation d'attaque | Fenêtre d'incantation sûre |
+|---------|-----------|---------------|---------------------|
+| Temple du Désert | Guerrier squelette | 1,2 secondes | 0,8 seconde après le début de la préparation |
+| Temple du Désert | Momie | 1,5 secondes | 1,0 seconde pendant la récupération |
+| Avant-poste Hivernal | Golem de glace | 2,0 secondes | 1,5 seconde pendant l'animation d'attaque |
+| Avant-poste Hivernal | Archer de givre | 0,8 seconde | 0,4 seconde entre les volées |
+| Île aux Pirates | Capitaine pirate | 1,8 secondes | 1,2 seconde après l'esquive |
+| Île aux Pirates | Requin | 0,6 seconde | Fenêtre limitée, éviter d'incantation |
+
+Synchroniser vos sorts contre l'**Archer de givre** dans l'Avant-poste Hivernal nécessite une attention particulière, car leur cadence d'attaque est nettement plus rapide que celle des autres ennemis. Incantez pendant la brève récupération après leur volée de flèches, et vous éviterez de subir des dégâts tout en plaçant vos sorts. Attendre leur prochaine animation de préparation avant de vous engager dans une incantation garantit que vous ne serez jamais pris au milieu d'une animation lorsqu'ils tirent.
+
+Le principe clé du timing des sorts est que vous voulez être en phase de récupération ou en état d'inactivité lorsque les ennemis sont en phase d'attaque active. Cela signifie commencer les incantations légèrement avant que les ennemis n'entrent dans leur préparation, afin que votre sort se termine juste au moment où ils commencent à attaquer. La pratique rend parfait, et vous développerez un sens intuitif de ces fenêtres après avoir parcouru chaque donjon plusieurs fois.
+
+## Techniques de visée de sorts pour une précision maximale
+
+La visée de précision est ce qui sépare les lanceurs de sorts moyens des lanceurs de sorts exceptionnels. Le système de visée dans Dungeon Quest Reborn utilise une combinaison de la position de la souris et de la direction du personnage pour déterminer les trajectoires des sorts. Vos sorts se déplacent dans la direction vers laquelle votre personnage fait face au moment du lancement, pas nécessairement vers votre curseur de souris.
+
+**Comment viser les sorts** efficacement nécessite de comprendre que vous pouvez influencer la direction vers laquelle votre personnage fait face en vous déplaçant dans la direction souhaitée avant d'incantation. Si vous avancez tout en appuyant sur le bouton d'incantation, votre personnage se tournera vers l'avant et lancera le sort dans cette direction. Cela permet des tirs avancés contre des cibles en mouvement et un positionnement précis contre des ennemis stationnaires.
+
+Pour les sorts de projectile, vous pouvez viser devant des ennemis en mouvement pour tenir compte du temps de trajet. Contre un Guerrier squelette se déplaçant de gauche à droite, visez légèrement à sa droite pour que votre sort arrive là où il sera, et non là où il est. Cette technique est particulièrement précieuse sur l'Île aux Pirates où les ennemis se déplacent de manière plus erratique que dans les donjons précédents.
+
+Les sorts ciblés au sol nécessitent une approche différente. Vous devez vous positionner de manière à ce que la zone d'effet chevauche vos cibles tout en maintenant une distance de sécurité. La stratégie optimale consiste à placer les sorts au sol légèrement devant les groupes d'ennemis, puis à vous repositionner au moment où le sort atterrit. Cela garantit une couverture maximale tout en maintenant votre sécurité personnelle pendant la phase de récupération.
+
+## Annulation de sorts : Quand et comment interrompre votre incantation
+
+L'annulation de sorts vous permet d'interrompre votre propre animation de sort pour éviter de subir des dégâts ou pour vous repositionner plus rapidement. Bien que vous ne puissiez pas annuler les sorts une fois entrés dans la phase active, vous pouvez les interrompre pendant les phases d'incantation et de récupération. Ce guide d'annulation de sorts pour Dungeon Quest Reborn explique les mécaniques et les applications stratégiques.
+
+La technique d'annulation la plus courante consiste à **esquiver immédiatement après l'incantation** pour sauter l'animation de récupération. De nombreux sorts ont une période de récupération après la phase active où votre personnage reste immobile brièvement. En appuyant sur le bouton d'esquive à l'instant où l'effet de votre sort se déclenche, vous pouvez annuler cette récupération et immédiatement vous déplacer vers une position plus sûre. Cette technique est essentielle pour les sorts avec de longs temps de récupération, car rester stationnaire même pendant une demi-seconde peut être dangereux.
+
+Une autre technique d'annulation avancée consiste à interrompre les sorts pendant leur phase d'incantation lorsque vous remarquez qu'un ennemi prépare une attaque interruptible. Si vous voyez un ennemi sur le point de vous frapper et que votre sort est encore dans ses frames de démarrage, vous pouvez esquiver pour annuler entièrement l'incantation. Cela nécessite un bon temps de réaction mais peut vous sauver de dégâts importants dans des situations serrées.
+
+Certains sorts ne peuvent pas être annulés une fois initiés, vous devez donc éviter de les incantation lorsque des ennemis sont proches et susceptibles d'attaquer. Généralement, les sorts plus rapides avec des animations plus courtes sont plus sûrs à lancer dans des situations imprévisibles, tandis que les sorts plus lents et plus puissants ne doivent être utilisés que lorsque vous êtes confiant que la fenêtre restera ouverte.
+
+## Système de mise en file d'attente des sorts : Planifier à l'avance pour des combos fluides
+
+Le système de mise en file d'attente des sorts dans Dungeon Quest Reborn vous permet d'entrer votre prochain sort légèrement avant que votre animation actuelle ne se termine. Lorsque vous appuyez sur le bouton d'incantation pendant votre phase de récupération, le jeu mettra automatiquement le sort en file d'attente et commencera à l'incantation dès que votre personnage sera prêt. C'est le fondement d'une mise en file d'attente efficace des sorts dans Dungeon Quest Reborn.
+
+**La mise en file d'attente des sorts** est particulièrement précieuse lors de l'exécution de donjons à haute densité d'ennemis, car elle élimine les temps morts entre les incantations. Au lieu d'attendre que votre personnage soit complètement inactif avant d'appuyer sur le bouton du sort suivant, vous pouvez entrer des commandes 0,2 à 0,3 secondes plus tôt et maintenir un flux continu de dégâts. Cette optimisation peut réduire considérablement vos temps de nettoyage au cours d'une exécution complète de donjon.
+
+Le système de file d'attente a des limitations que vous devez respecter. Un seul sort peut être mis en file d'attente à la fois, et tenter de mettre en file d'attente pendant un état déjà en file d'attente remplacera la file d'attente précédente. De plus, les commandes de déplacement ne sont pas mises en file d'attente, vous devez donc chronométrer votre repositionnement séparément de votre incantation. L'approche la plus efficace consiste à mettre en file d'attente votre prochain sort pendant l'animation de votre sort actuel, puis à chronométrer manuellement votre déplacement entre la phase active et la phase de récupération.
+
+Combiner la mise en file d'attente des sorts avec les [meilleurs sorts pour l'exploration de donjons](/en/spells/best-spells/) crée de puissantes rotations de dégâts qui maximisent votre efficacité. En planifiant à l'avance l'ordre de vos sorts et en utilisant le système de file d'attente pour l'exécuter fluidement, vous surpasserez systématiquement les joueurs qui lancent leurs sorts de manière réactive sans structure.
+
+## Meilleur sort pour chaque donjon : Associer les capacités au contenu
+
+Différents donjons présentent différents défis qui nécessitent des sélections de sorts ajustées. Ce guide du meilleur sort pour chaque donjon de Dungeon Quest Reborn vous aide à optimiser votre équipement pour une efficacité maximale à travers les trois principaux donjons actuellement disponibles dans le jeu.
+
+**Tableau : Sorts recommandés par donjon**
+
+| Donjon | Sort principal recommandé | Sort secondaire recommandé | Pourquoi cela fonctionne |
+|---------|--------------------------|----------------------------|----------------|
+| Temple du Désert | Boule de feu | Bouclier | Haute cible unique pour les squelettes, le bouclier bloque le poison des momies |
+| Avant-poste Hivernal | Éclat de glace | Blizzard | Synergie de glace avec les ennemis gelés, Blizzard gère les groupes |
+| Île aux Pirates | Frappe éclair | Téléportation | Chaîne d'éclairs pour les groupes de pirates, téléportation pour les attaques de requins |
+
+Pour le Temple du Désert, priorisez les dégâts sur cible unique, car le donjon présente de nombreux ennemis individuels nécessitant une élimination ciblée. Les sorts de feu fonctionnent particulièrement bien ici, car le thème du désert complète les dégâts de feu sur le plan esthétique et mécanique. Votre sort secondaire devrait fournir une utilité défensive, car les ennemis Momies peuvent appliquer de dangereux effets de poison qui infligent des dégâts sur la durée.
+
+L'Avant-poste Hivernal exige des capacités de zone d'effet, car les Golems de glace apparaissent souvent en groupes et les Archers de givre attaquent sous plusieurs angles. Les sorts basés sur la glace peuvent déclencher des effets bonus contre les ennemis gelés, les rendant particulièrement précieux pour ce donjon. Envisagez d'apporter des sorts qui peuvent geler ou ralentir les ennemis pour contrôler leur positionnement et créer des zones sûres pour votre incantation.
+
+L'Île aux Pirates nécessite une mobilité maximale et un contrôle des foules, car les ennemis Requins sont rapides et infligent des dégâts de burst importants. Les sorts de foudre excellent ici grâce à leurs mécaniques de chaîne, vous permettant de frapper plusieurs pirates en une seule incantation. Avoir une téléportation ou une capacité de dash comme sort secondaire est essentiel pour échapper aux charges de Requins qui peuvent instantanément épuiser votre santé si vous êtes pris immobile.
+
+## Techniques d'animation avancées : Exécution à la frame près
+
+L'exécution à la frame près implique de synchroniser vos actions jusqu'aux frames d'animation individuelles pour obtenir des résultats optimaux. Bien que Dungeon Quest Reborn n'affiche pas de compteurs de frames, comprendre le cadre conceptuel vous aide à effectuer des actions plus rapidement et de manière plus fiable. Chaque animation de sort couvre un nombre spécifique de frames virtuelles, et votre objectif est d'effectuer des actions sur la frame exacte qui fournit un bénéfice maximal.
+
+**L'annulation d'esquive à la frame près** consiste à appuyer sur esquive sur la dernière frame de la phase active de votre sort. Cela saute entièrement l'animation de récupération et permet un mouvement immédiat. La fenêtre pour cette technique est extrêmement étroite, mais avec de la pratique, vous développerez la mémoire musculaire pour l'exécuter systématiquement. La récompense est une réduction significative de votre temps d'animation de sort effectif.
+
+**La mise en file d'attente de sorts à la frame près** consiste à entrer votre prochain sort exactement une frame avant que votre personnage ne devienne lançable. Entrer trop tôt peut entraîner l'annulation de votre sort en file d'attente par certains états du jeu, tandis qu'entrer trop tard perd l'avantage d'efficacité. Trouver ce timing précis nécessite de la sensibilité plutôt que des indices visuels, alors pratiquez la même rotation à plusieurs reprises jusqu'à ce qu'elle devienne automatique.
+
+Comprendre les mécaniques d'enrage est également crucial pour le jeu avancé. Certaines rencontres de boss ont des minuteries d'enrage qui augmentent les dégâts ennemis ou font apparaître des ennemis supplémentaires après une certaine durée. Combiner votre connaissance des animations avec les [stratégies de minuterie d'enrage de boss](/en/bosses/boss-enrage-timer/) garantit que vous pouvez maximiser les dégâts pendant les fenêtres sûres tout en respectant les contraintes de temps.
+
+## FAQ : Questions sur l'animation des sorts répondues
+
+**Quelle est la façon la plus rapide d'améliorer le timing des sorts dans Dungeon Quest Reborn ?**
+
+Pratiquez d'abord dans les donjons de difficulté inférieure, en vous concentrant sur la lecture des animations de préparation ennemies plutôt que sur la maximisation des dégâts. Commencez chaque salle en attendant que les ennemis commencent leurs attaques, puis incantez pendant leur animation active. Cela construit la reconnaissance de schémas fondamentaux nécessaire pour tout le contenu. À mesure que vous vous améliorez, réduisez progressivement votre temps d'attente jusqu'à ce que vous incantation de manière préventive.
+
+**Pouvez-vous annuler tous les sorts pendant leur animation d'incantation ?**
+
+Non, seuls certains sorts peuvent être interrompus pendant leur phase d'incantation. Les sorts plus rapides avec des animations courtes ne peuvent généralement pas être annulés une fois commencés, car ils se terminent avant que vous puissiez réagir. Les sorts plus lents avec des phases d'incantation plus longues vous donnent plus de possibilités d'annuler, mais vous devez agir rapidement. L'esquive est l'annulation universelle pour tous les sorts pendant n'importe quelle phase de l'animation.
+
+**Comment la mise en file d'attente des sorts affecte-t-elle vos dégâts ?**
+
+Une mise en file d'attente efficace des sorts peut augmenter vos dégâts soutenus de 15 à 25 % par rapport à une incantation sans file d'attente. L'avantage vient de l'élimination du temps d'inactivité entre les sorts, garantissant que vous lancez toujours quelque chose plutôt que d'attendre que votre personnage devienne prêt. Cela se cumule au cours d'une exécution de donjon, rendant la mise en file d'attente essentielle pour des temps de nettoyage compétitifs.
+
+**Pourquoi devriez-vous associer les éléments des sorts aux thèmes des donjons ?**
+
+L'association élémentaire fournit des dégâts bonus ou des effets dans de nombreux cas. Les sorts de glace infligent des dégâts accrus aux ennemis faibles contre le froid, les sorts de feu excellent contre les ennemis ayant des vulnérabilités au givre, et les sorts de foudre se propagent entre les cibles à proximité. Au-delà des bonus de dégâts bruts, les effets élémentaires comme le gel ou la brûlure fournissent un contrôle des foules qui rend les rencontres difficiles beaucoup plus gérables.
+
+**Quelle est la façon la plus sûre d'incantation des sorts puissants avec de longues animations ?**
+
+Positionnez-vous à la portée maximale des sorts par rapport aux ennemis, identifiez les fenêtres sûres en observant les schémas d'attaque ennemis, puis incantez pendant leur phase de préparation. Esquivez immédiatement après que le sort entre dans sa phase active pour annuler l'animation de récupération et vous repositionner. Ne lancez jamais de sorts à haut risque lorsque des ennemis se trouvent entre vous et votre route de fuite, car être acculé pendant la récupération vous rend vulnérable aux dégâts de burst.
+
+Maîtriser les mécaniques d'animation des sorts dans Dungeon Quest Reborn nécessite de comprendre les phases d'incantation, de synchroniser avec les schémas ennemis, de viser avec précision, d'annuler stratégiquement et de mettre en file d'attente efficacement. En mettant en œuvre les techniques couvertes dans ce guide, vous remarquerez des temps de nettoyage améliorés, des taux de survie plus élevés et un gameplay plus satisfaisant à mesure que vous progressez à travers des donjons de plus en plus difficiles. Pratiquez ces fondamentaux de manière constante, et vous développerez les instincts nécessaires pour gérer toute situation que le jeu vous réserve.

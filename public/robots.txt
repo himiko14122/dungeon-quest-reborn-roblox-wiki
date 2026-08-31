@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://dungeon-quest-reborn-roblox.wiki/sitemap.xml

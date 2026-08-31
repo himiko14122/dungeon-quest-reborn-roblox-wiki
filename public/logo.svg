@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Dark dungeon background -->
+  <rect width="64" height="64" rx="12" fill="#0a0a1a"/>
+  <!-- Subtle purple mist -->
+  <ellipse cx="32" cy="32" rx="28" ry="28" fill="#1a1a2e" opacity="0.7"/>
+  <!-- Golden sword (diagonal from top-left to bottom-right) -->
+  <g transform="rotate(-45, 32, 32)">
+    <!-- Sword blade -->
+    <rect x="30" y="8" width="4" height="28" rx="1" fill="#FFD700"/>
+    <!-- Sword tip -->
+    <polygon points="32,4 29,10 35,10" fill="#FFD700"/>
+    <!-- Sword guard -->
+    <rect x="24" y="36" width="16" height="4" rx="1" fill="#DAA520"/>
+    <!-- Sword handle -->
+    <rect x="30" y="40" width="4" height="10" fill="#8B4513"/>
+    <!-- Sword pommel -->
+    <circle cx="32" cy="52" r="3" fill="#DAA520"/>
+  </g>
+  <!-- Glowing blue magic staff (diagonal from top-right to bottom-left) -->
+  <g transform="rotate(45, 32, 32)">
+    <!-- Staff shaft -->
+    <rect x="30" y="10" width="3" height="30" rx="1.5" fill="#4488ff"/>
+    <!-- Staff orb glow -->
+    <circle cx="31.5" cy="10" r="6" fill="#00BFFF" opacity="0.3"/>
+    <circle cx="31.5" cy="10" r="4" fill="#00BFFF" opacity="0.6"/>
+    <circle cx="31.5" cy="10" r="2.5" fill="#87CEEB"/>
+  </g>
+  <!-- Sparkle effects -->
+  <circle cx="20" cy="18" r="1" fill="#FFD700" opacity="0.6"/>
+  <circle cx="44" cy="22" r="1" fill="#00BFFF" opacity="0.6"/>
+  <circle cx="38" cy="46" r="0.8" fill="#FFD700" opacity="0.4"/>
+</svg>

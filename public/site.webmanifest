@@ -1,0 +1,13 @@
+{
+  "name": "Anime Origins Wiki",
+  "short_name": "Anime Origins",
+  "description": "Complete wiki for Anime Origins — active codes, unit and trait tier lists, summoning, evolution, Story Mode, Infinite Mode and Raids guides for the Roblox anime tower defense.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12101c",
+  "theme_color": "#e63946",
+  "icons": [
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
