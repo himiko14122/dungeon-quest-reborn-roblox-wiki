@@ -40,8 +40,7 @@ export interface HeroCtaConfig {
 
 export const HOME_CONFIG = {
   hero: {
-    // DEGRADED: no official trailer — using high-viewership gameplay video
-    videoId: 'm7-99nJnj9g',
+    // DEGRADED: no official trailer — using hero image (new game Aug 2026, sparse video content)
     badgeKeys: [
       'home_hero_badge_visits',
       'home_hero_badge_favorites',
