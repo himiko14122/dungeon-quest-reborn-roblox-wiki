@@ -697,7 +697,7 @@
   "category_feature_tier-list_html": "<p>Tier rankings evaluate overall effectiveness, versatility, and power level. S-tier represents the strongest options while C-tier covers viable alternatives and starter choices.</p>",
   "category_mechanics_tier-list": "Tier rankings evaluate overall effectiveness, versatility, and power level. S-tier represents the strongest options while C-tier covers viable alternatives and starter choices. Tier assignments derive from comprehensive analysis of combat statistics, community testing results, and theoretical optimization modeling. Positioning accounts for both peak performance potential and consistency across different encounter scenarios. Cross-referencing tier rankings with actual gameplay data ensures practical applicability of the provided recommendations for player decision-making. Data collection methodologies include automated testing scripts, community feedback aggregation, and developer note analysis. Statistical significance testing ensures tier placement changes reflect genuine balance shifts rather than random variance in small sample sizes. Visualization tools present complex comparative data in accessible formats for quick reference.",
   "category_advantages_tier-list": "Regularly updated rankings based on community votes, statistical analysis, and gameplay testing. Clear explanations for each ranking decision. Access to current tier rankings enables efficient resource allocation for character building, preventing investment in suboptimal equipment or abilities. Understanding the reasoning behind tier placements helps players make better decisions when full optimization items are unavailable. Data-driven rankings provide objective foundations for build discussions and group formation decisions. Players leveraging tier-optimized loadouts consistently achieve faster clear times, higher success rates against challenging bosses, and more efficient resource acquisition. Strategic planning around tier rankings minimizes wasted effort on items that fall short of current performance standards.",
-  "category_weaknesses_tier-list": "Meta shifts with balance changes and new content releases. Higher tiers often require rare drops or advanced progression. Tier rankings inherently reflect generalist use cases and may not account for every specialized strategy or niche build archetype. Rapid meta shifts following balance patches can quickly invalidate previously accurate recommendations. Some highly effective situational items may receive lower generalist rankings despite excelling in specific content types or encounter scenarios. Generalist rankings may undervalue items with exceptional performance in specific dungeon types or boss encounters. Niche strategies and creative build approaches may outperform tier list expectations in specialized applications, requiring player judgment beyond simple tier位置参考.",
+  "category_weaknesses_tier-list": "Meta shifts with balance changes and new content releases. Higher tiers often require rare drops or advanced progression. Tier rankings inherently reflect generalist use cases and may not account for every specialized strategy or niche build archetype. Rapid meta shifts following balance patches can quickly invalidate previously accurate recommendations. Some highly effective situational items may receive lower generalist rankings despite excelling in specific content types or encounter scenarios. Generalist rankings may undervalue items with exceptional performance in specific dungeon types or boss encounters. Niche strategies and creative build approaches may outperform tier list expectations in specialized applications, requiring player judgment beyond simple tier position reference.",
   "category_faq_tier-list": "Common tier list questions answered",
   "category_stat_tier-list": "Updated with every major patch",
   "category_cards_tier-list_nav": "Ranking Cards",
@@ -758,5 +758,18 @@
   "category_cards_updates_2_f0_value": "Exclusive legendary weapons, coin bonuses, and limited-edition cosmetics",
   "category_cards_updates_2_f1_label": "Duration",
   "category_cards_updates_2_f1_value": "Two to four weeks with escalating reward tiers for active participation",
-  "guide_category_guides": "Guides"
+  "guide_category_guides": "Guides",
+  "home_start_5_title": "View Tier List",
+  "home_start_5_desc": "See rankings for the best weapons, spells, and classes to optimize your gameplay.",
+  "category_articles_guides": "Guides",
+  "category_articles_bosses": "Bosses",
+  "category_articles_classes": "Classes",
+  "category_articles_dungeons": "Dungeons",
+  "category_articles_equipment": "Equipment",
+  "category_articles_spells": "Spells",
+  "category_articles_updates": "Updates",
+  "category_articles_weapons": "Weapons",
+  "category_articles_tier-list": "Tier List",
+  "page_privacy_title": "Privacy Policy",
+  "page_terms_title": "Terms of Service"
 }
