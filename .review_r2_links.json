@@ -1,0 +1,997 @@
+{
+  "status": "success",
+  "review_type": "R2_links",
+  "total_links_checked": 992,
+  "total_internal_links": 704,
+  "total_external_links": 288,
+  "broken_internal_links": [
+    {
+      "source_file": "en/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "best equipment for mage",
+      "href": "en/equipment/best-equipment-for-mage",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "best-equipment-for-mage",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "en/equipment/Best-Equipment.mdx",
+      "link_text": "dungeon tier list",
+      "href": "en/equipment/dungeon-tier-list",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "dungeon-tier-list",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "es/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "mejor equipo para mago",
+      "href": "en/equipment/best-equipment-for-mage",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "best-equipment-for-mage",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "es/equipment/Best-Equipment.mdx",
+      "link_text": "lista de niveles de mazmorras",
+      "href": "en/equipment/dungeon-tier-list",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "dungeon-tier-list",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "fr/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "meilleur équipement pour mage",
+      "href": "en/equipment/best-equipment-for-mage",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "best-equipment-for-mage",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "fr/equipment/Best-Equipment.mdx",
+      "link_text": "tier list de donjon",
+      "href": "en/equipment/dungeon-tier-list",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "dungeon-tier-list",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "pt/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "melhor equipamento para builds de mago",
+      "href": "en/equipment/best-equipment-for-mage",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "best-equipment-for-mage",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    },
+    {
+      "source_file": "pt/equipment/Best-Equipment.mdx",
+      "link_text": "tier list de masmorras",
+      "href": "en/equipment/dungeon-tier-list",
+      "resolved_lang": "en",
+      "resolved_ct": "equipment",
+      "resolved_slug": "dungeon-tier-list",
+      "available_slugs_in_ct": [
+        "best-equipment",
+        "best-equipment-for-warrior",
+        "equipment-glitches",
+        "equipment-level-requirements",
+        "equipment-meta",
+        "equipment-stat-priority",
+        "event-equipment",
+        "physical-power-gear"
+      ]
+    }
+  ],
+  "broken_external_links": [
+    {
+      "source_file": "en/bosses/Boss-Comparison.mdx",
+      "link_text": "patch notes and update announcements",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/bosses/Boss-Enrage-Timer.mdx",
+      "link_text": "official Dungeon Quest Reborn beginner guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/bosses/Boss-Guide.mdx",
+      "link_text": "Roonby Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/bosses/How-To-Beat-Bosses-Solo.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/bosses/How-To-Beat-Winter-Outpost-Boss.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide recommendations",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/classes/Class-Specific-Dungeons.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/classes/Hybrid-Build.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/classes/Warrior-Ability-Rotation.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "Roonby Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/dungeons/Dungeon-Difficulty-Levels.mdx",
+      "link_text": "Roonby beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/dungeons/Dungeon-Layout-Guide.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/dungeons/Dungeon-Ranking.mdx",
+      "link_text": "Roonby beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/dungeons/Pirate-Island-Boss.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/equipment/Equipment-Glitches.mdx",
+      "link_text": "Roonby beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/equipment/Event-Equipment.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/guides/Season-Guide.mdx",
+      "link_text": "Roonby beginner guide community",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/guides/When-To-Move-To-Next-Dungeon.mdx",
+      "link_text": "Roonby's Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/spells/Spell-Drop-Locations.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/spells/Spell-Level-Requirements.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/tier-list/Best-Overall-Tier-List.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/tier-list/C-Tier-Weapons.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/tier-list/Tier-List-History.mdx",
+      "link_text": "Roonby beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/tier-list/Tier-List-Rankings.mdx",
+      "link_text": "Roonby Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/tier-list/Tier-List-Update.mdx",
+      "link_text": "Roonby Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/updates/Major-Update.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/updates/Patch-Notes.mdx",
+      "link_text": "Roonby beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/updates/Quality-Of-Life-Update.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide on Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/weapons/Legendary-Weapons-List.mdx",
+      "link_text": "Dungeon Quest Reborn weapon upgrade mechanics",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/weapons/Pirate-Island-Weapons.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "en/weapons/Weapon-Upgrade-Cost.mdx",
+      "link_text": "Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/bosses/Boss-Comparison.mdx",
+      "link_text": "notas de parches y anuncios de actualizaciones",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/bosses/Boss-Enrage-Timer.mdx",
+      "link_text": "guía oficial para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/bosses/Boss-Guide.mdx",
+      "link_text": "guía para principiantes de Roonby Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/bosses/How-To-Beat-Bosses-Solo.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/bosses/How-To-Beat-Winter-Outpost-Boss.mdx",
+      "link_text": "recomendaciones de la guía para principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/classes/Class-Specific-Dungeons.mdx",
+      "link_text": "Guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/classes/Hybrid-Build.mdx",
+      "link_text": "Guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/classes/Warrior-Ability-Rotation.mdx",
+      "link_text": "Guía para Principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "guía para principiantes de Roonby Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/dungeons/Dungeon-Difficulty-Levels.mdx",
+      "link_text": "guía para principiantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/dungeons/Dungeon-Layout-Guide.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/dungeons/Dungeon-Ranking.mdx",
+      "link_text": "guía para principiantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/dungeons/Pirate-Island-Boss.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/equipment/Equipment-Glitches.mdx",
+      "link_text": "guía para principiantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/equipment/Event-Equipment.mdx",
+      "link_text": "Guía de Principiante de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/guides/Season-Guide.mdx",
+      "link_text": "comunidad de guía para principiantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/guides/When-To-Move-To-Next-Dungeon.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/spells/Spell-Drop-Locations.mdx",
+      "link_text": "Guía para Principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/spells/Spell-Level-Requirements.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/tier-list/Best-Overall-Tier-List.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/tier-list/C-Tier-Weapons.mdx",
+      "link_text": "Guía para principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/tier-list/Tier-List-History.mdx",
+      "link_text": "guía para principiantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/tier-list/Tier-List-Rankings.mdx",
+      "link_text": "guía para principiantes de Roonby sobre Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/tier-list/Tier-List-Update.mdx",
+      "link_text": "Roonby Dungeon Quest Reborn beginner guide",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/updates/Major-Update.mdx",
+      "link_text": "Guía para Principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/updates/Patch-Notes.mdx",
+      "link_text": "guía para principiantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/updates/Quality-Of-Life-Update.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn en Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/weapons/Legendary-Weapons-List.mdx",
+      "link_text": "las mecánicas de mejora de armas de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/weapons/Pirate-Island-Weapons.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "es/weapons/Weapon-Upgrade-Cost.mdx",
+      "link_text": "guía para principiantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/bosses/Boss-Comparison.mdx",
+      "link_text": "patch notes et annonces de mise à jour",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/bosses/Boss-Enrage-Timer.mdx",
+      "link_text": "guide officiel du débutant Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/bosses/Boss-Guide.mdx",
+      "link_text": "guide débutant Roonby Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/bosses/How-To-Beat-Bosses-Solo.mdx",
+      "link_text": "guide débutant de Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/bosses/How-To-Beat-Winter-Outpost-Boss.mdx",
+      "link_text": "recommandations du guide débutant de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/classes/Class-Specific-Dungeons.mdx",
+      "link_text": "Dungeon Quest Reborn Beginner Guide sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/classes/Hybrid-Build.mdx",
+      "link_text": "Guide du Débutant Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/classes/Warrior-Ability-Rotation.mdx",
+      "link_text": "Guide du Débutant de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "guide du débutant Roonby Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/dungeons/Dungeon-Difficulty-Levels.mdx",
+      "link_text": "guide du débutant Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/dungeons/Dungeon-Layout-Guide.mdx",
+      "link_text": "guide débutant de Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/dungeons/Dungeon-Ranking.mdx",
+      "link_text": "guide du débutant Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/dungeons/Pirate-Island-Boss.mdx",
+      "link_text": "guide débutant de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/equipment/Equipment-Glitches.mdx",
+      "link_text": "guide débutant de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/equipment/Event-Equipment.mdx",
+      "link_text": "Guide débutant Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/guides/Season-Guide.mdx",
+      "link_text": "communauté du guide débutant Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/guides/When-To-Move-To-Next-Dungeon.mdx",
+      "link_text": "guide du débutant Dungeon Quest Reborn de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/spells/Spell-Drop-Locations.mdx",
+      "link_text": "Guide du débutant Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/spells/Spell-Level-Requirements.mdx",
+      "link_text": "guide débutant de Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/tier-list/Best-Overall-Tier-List.mdx",
+      "link_text": "guide du débutant Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/tier-list/C-Tier-Weapons.mdx",
+      "link_text": "Guide du débutant Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/tier-list/Tier-List-History.mdx",
+      "link_text": "guide débutant Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/tier-list/Tier-List-Rankings.mdx",
+      "link_text": "guide du débutant Roonby Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/tier-list/Tier-List-Update.mdx",
+      "link_text": "guide du débutant Roonby pour Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/updates/Major-Update.mdx",
+      "link_text": "Guide du Débutant de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/updates/Patch-Notes.mdx",
+      "link_text": "guide du débutant Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/updates/Quality-Of-Life-Update.mdx",
+      "link_text": "guide du débutant Dungeon Quest Reborn sur Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/weapons/Legendary-Weapons-List.mdx",
+      "link_text": "mécaniques d'amélioration des armes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/weapons/Pirate-Island-Weapons.mdx",
+      "link_text": "guide du débutant de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "fr/weapons/Weapon-Upgrade-Cost.mdx",
+      "link_text": "guide du débutant de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/bosses/Boss-Comparison.mdx",
+      "link_text": "notas de patch e anúncios de atualização",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/bosses/Boss-Enrage-Timer.mdx",
+      "link_text": "guia oficial para iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/bosses/Boss-Guide.mdx",
+      "link_text": "Roonby guia para iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/bosses/How-To-Beat-Bosses-Solo.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/bosses/How-To-Beat-Winter-Outpost-Boss.mdx",
+      "link_text": "recomendações do guia para iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/classes/Class-Specific-Dungeons.mdx",
+      "link_text": "Guia para iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/classes/Hybrid-Build.mdx",
+      "link_text": "Guia para Iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/classes/Warrior-Ability-Rotation.mdx",
+      "link_text": "Guia para Iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/classes/Warrior-Stat-Priority.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn da Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/dungeons/Dungeon-Difficulty-Levels.mdx",
+      "link_text": "guia para iniciantes do Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/dungeons/Dungeon-Layout-Guide.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/dungeons/Dungeon-Ranking.mdx",
+      "link_text": "guia para iniciantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/dungeons/Pirate-Island-Boss.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/equipment/Equipment-Glitches.mdx",
+      "link_text": "guia para iniciantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/equipment/Event-Equipment.mdx",
+      "link_text": "Guia para Iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/guides/Season-Guide.mdx",
+      "link_text": "comunidade do guia para iniciantes do Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/guides/When-To-Move-To-Next-Dungeon.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn da Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/spells/Spell-Drop-Locations.mdx",
+      "link_text": "Guia para Iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/spells/Spell-Level-Requirements.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/tier-list/Best-Overall-Tier-List.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn na Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/tier-list/C-Tier-Weapons.mdx",
+      "link_text": "Guia de Iniciante de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/tier-list/Tier-List-History.mdx",
+      "link_text": "guia para iniciantes da Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/tier-list/Tier-List-Rankings.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn da Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/tier-list/Tier-List-Update.mdx",
+      "link_text": "guia para iniciantes de Roonby Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/updates/Major-Update.mdx",
+      "link_text": "Guia para Iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/updates/Patch-Notes.mdx",
+      "link_text": "guia para iniciantes de Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/updates/Quality-Of-Life-Update.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn no Roonby",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/weapons/Legendary-Weapons-List.mdx",
+      "link_text": "mecânicas de melhoria de armas de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/weapons/Pirate-Island-Weapons.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    },
+    {
+      "source_file": "pt/weapons/Weapon-Upgrade-Cost.mdx",
+      "link_text": "guia para iniciantes de Dungeon Quest Reborn",
+      "href": "https://roonby.com/7-dungeon-quest-reborn-beginner-guide-tips-tricks",
+      "domain": "roonby.com",
+      "reason": "not in whitelist"
+    }
+  ],
+  "blacklisted_external_links": [],
+  "summary": "Checked 704 internal links and 288 external links. 8 broken internal links found (16 due to malformed pseudo-URLs written as external links). 120 non-whitelisted external links. 0 blacklisted external links (.wiki competitor sites)."
+}
